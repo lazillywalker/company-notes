@@ -1,0 +1,13 @@
+{
+  "category": 1,
+  "title": "こはる商店｜基本方針・共通用語",
+  "ja": "【基本方針】\n1. お客様に分かりやすく、丁寧で簡潔な案内を行います。\n2. 価格・営業時間・商品仕様は、対象店舗と有効期間を確認した承認済み情報に基づいて案内します。\n3. 確認できない情報は推測せず、「確認が必要です」と伝えます。\n4. 店舗や商品を特定できない場合は、お客様に確認します。\n5. 在庫、予約、取り置き、返品・交換の可否は、確認済みの情報がない限り確約しません。\n6. 社内限定情報や個人情報は、お客様向けの回答に含めません。\n\n【共通用語】\n・通常価格：売出しなどの特別条件を適用しない販売価格。\n・売出し価格：指定された期間・店舗・商品・条件に限って適用する販売価格。\n・税込価格：消費税を含む価格。\n・税別価格：消費税を含まない価格。税込・税別が不明な場合は確認します。\n・定休日：通常の週間予定で営業しない曜日。\n・臨時休業：通常の週間予定とは別に設定する休業。\n・取り置き：商品を一定期間確保すること。受付条件と在庫の確認が必要です。\n・要確認：回答に必要な正式情報が不足している状態。",
+  "en": "POLICIES\n1. Provide clear, polite and concise assistance.\n2. Use approved information for prices, opening hours and product specifications, checking the applicable store and validity period.\n3. Do not guess unavailable facts. Explain that confirmation is needed.\n4. Ask the customer to identify the store or product when unclear.\n5. Do not promise stock availability, reservations, product holds, returns or exchanges without confirmed information.\n6. Do not include internal-only information or personal information in customer-facing answers.\n\nTERMS\n• Regular price: The selling price without promotional conditions.\n• Promotional price: A price valid only for the specified dates, stores, products and conditions.\n• Tax-inclusive price: A price including consumption tax.\n• Tax-exclusive price: A price excluding consumption tax. Confirm the tax treatment when unspecified.\n• Regular closing day: A weekday on which the store is normally closed.\n• Temporary closure: A closure outside the regular weekly schedule.\n• Product hold: Setting aside a product for a limited period, subject to confirmed conditions and availability.\n• Confirmation required: Official information needed to answer is missing.",
+  "keywords": "基本方針 接客 用語 通常価格 売出し価格 税込 税別 定休日 臨時休業 取り置き 要確認 policy terminology regular price promotional price tax closing day temporary closure product hold",
+  "scope": "こはる商店 全店舗 / Koharu Store — All stores",
+  "source": "動作確認用の架空サンプル。実際の会社方針に合わせて編集してください。",
+  "start": "",
+  "end": "",
+  "visibility": "public",
+  "reason": "基本方針と共通用語の初回登録"
+}

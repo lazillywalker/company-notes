@@ -1,0 +1,13 @@
+{
+  "category": 3,
+  "title": "こはる商店｜返品・交換の受付手順と判断基準",
+  "ja": "【目的】\n返品・交換の問い合わせで必要な情報を確認し、担当者へ正確に引き継ぎます。\n\n【受付手順】\n1. 返品と交換のどちらを希望しているか確認します。\n2. 購入店舗、購入日、商品名または商品IDを確認します。\n3. レシートなど購入を確認できるものがあるか確認します。\n4. 未開封・開封済み・使用済みのどの状態か確認します。\n5. 返品・交換を希望する理由と、不具合の有無を確認します。\n6. 確認した内容を整理して担当者へ引き継ぎます。\n\n【判断基準】\n・この手順は受付と引き継ぎのためのものです。返品・交換の可否を確約しません。\n・承認済みの返品規定があり、その条件に該当することを確認できる場合のみ、規定に記載された内容を案内します。\n・購入日が不明、購入証明がない、使用済み、売出し商品など、適用条件が不明な場合は担当者へ確認します。これらの理由だけで受付を断りません。\n・破損、異臭、発熱など安全上の問題が報告された場合は、使用を中止するよう案内し、速やかに担当者へ引き継ぎます。\n・返金額、返金方法、送料負担、交換品の在庫、対応完了日は、確認済みの情報がない限り確約しません。\n\n【引き継ぎ項目】\n希望する対応、購入店舗、購入日、商品名・商品ID、購入証明の有無、商品の状態、申告された問題、未確認事項。\n\n【情報の扱い】\n決済カード番号や暗証番号はチャットで求めません。連絡先が必要な場合は、会社指定の受付方法を案内します。",
+  "en": "PURPOSE\nCollect the information needed for return or exchange inquiries and pass it accurately to staff.\n\nPROCEDURE\n1. Ask whether the customer wants a return or an exchange.\n2. Confirm the purchase store, purchase date and product name or ID.\n3. Ask whether a receipt or other proof of purchase is available.\n4. Confirm whether the item is unopened, opened or used.\n5. Ask the reason for the request and whether a defect is reported.\n6. Summarize the information and refer the inquiry to staff.\n\nDECISION CRITERIA\n• This procedure covers intake and referral. Do not promise that a return or exchange will be accepted.\n• Explain an approved return policy only when its applicable conditions can be confirmed.\n• Refer unclear cases to staff, including unknown purchase dates, missing proof of purchase, used items and promotional items. Do not reject an inquiry solely for these reasons.\n• If damage, an unusual smell, overheating or another safety concern is reported, advise the customer to stop using the item and promptly refer the matter to staff.\n• Do not promise refund amounts, refund methods, shipping costs, replacement availability or completion dates without confirmed information.\n\nHANDOFF DETAILS\nRequested action, purchase store and date, product name or ID, proof of purchase, item condition, reported issue and unresolved questions.\n\nINFORMATION HANDLING\nDo not request payment card numbers or PINs in chat. If contact details are needed, direct the customer to the company's designated intake channel.",
+  "keywords": "返品 交換 返金 受付 手順 判断基準 レシート 購入証明 不良品 引き継ぎ return exchange refund procedure receipt proof of purchase defective item referral",
+  "scope": "こはる商店 全店舗／返品・交換の問い合わせ対応 / All stores — Return and exchange inquiries",
+  "source": "動作確認用の架空手順。実際の会社規定を確認してから承認してください。",
+  "start": "",
+  "end": "",
+  "visibility": "public",
+  "reason": "返品・交換の受付手順と判断基準の初回登録"
+}

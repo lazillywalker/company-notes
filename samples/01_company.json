@@ -1,0 +1,77 @@
+{
+  "category": 0,
+  "title": "こはる商店 本店｜会社概要・営業案内",
+  "ja": "こはる商店は、日用品・生活雑貨・季節商品を販売する架空の小売店です。本店では店頭販売、商品案内、ギフト包装を受け付けています。所在地は架空県こはる市中央1-2-3です。通常の営業時間は曜日別の登録内容を参照してください。水曜日は定休日です。祝日・年末年始の営業、商品の在庫、配達の可否は担当者への確認が必要です。",
+  "en": "Koharu Store is a fictional retailer of daily essentials, household goods and seasonal products. The main store offers in-store shopping, product assistance and gift wrapping. Its fictional address is 1-2-3 Chuo, Koharu City, Kakuu Prefecture. Refer to the weekly schedule for regular opening hours. The store is closed on Wednesdays. Please ask staff about public holidays, year-end schedules, stock availability and delivery.",
+  "keywords": "こはる商店 本店 会社概要 営業内容 営業時間 定休日 所在地 雑貨 ギフト Koharu main store company opening hours address gifts",
+  "scope": "こはる商店 本店 / Koharu Store — Main Store",
+  "source": "動作確認用の架空サンプル",
+  "start": "",
+  "end": "",
+  "visibility": "public",
+  "reason": "会社概要と通常の週間営業時間の初回登録",
+  "weekly_hours": {
+    "mon": {
+      "status": "open",
+      "periods": [
+        [
+          "09:00",
+          "18:00"
+        ]
+      ]
+    },
+    "tue": {
+      "status": "open",
+      "periods": [
+        [
+          "09:00",
+          "18:00"
+        ]
+      ]
+    },
+    "wed": {
+      "status": "closed",
+      "periods": []
+    },
+    "thu": {
+      "status": "open",
+      "periods": [
+        [
+          "09:00",
+          "12:00"
+        ],
+        [
+          "13:00",
+          "18:00"
+        ]
+      ]
+    },
+    "fri": {
+      "status": "open",
+      "periods": [
+        [
+          "09:00",
+          "19:00"
+        ]
+      ]
+    },
+    "sat": {
+      "status": "open",
+      "periods": [
+        [
+          "10:00",
+          "19:00"
+        ]
+      ]
+    },
+    "sun": {
+      "status": "open",
+      "periods": [
+        [
+          "10:00",
+          "17:00"
+        ]
+      ]
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "category": 4,
+  "title": "こはる商店 本店｜日曜日の閉店時刻の訂正",
+  "ja": "【質問】\n本店は日曜日、何時まで営業していますか？\n\n【間違えた回答】\n日曜日は19時まで営業しています。\n\n【正しい内容】\n本店の日曜日の通常営業時間は10時〜17時です。祝日や臨時営業については別途確認が必要です。\n\n【訂正理由】\n土曜日の閉店時刻である19時を、日曜日の閉店時刻として誤って案内したため。\n\n【確認した根拠】\n「こはる商店 本店｜会社概要・営業案内」の曜日別営業時間。土曜日は10時〜19時、日曜日は10時〜17時。\n\n【影響範囲】\nこはる商店 本店の日曜日の通常営業時間に関する回答。他店舗の営業時間は対象外です。\n\n【正式教材への対応】\n元の営業時間教材が日曜日10時〜17時になっていることを確認してください。誤っている場合は元の教材を編集し、改めて承認してください。この訂正記録の保存だけでは元の教材は更新されません。\n\n【再確認用の質問】\n・本店は日曜日、何時まで営業していますか？\n・本店の土曜日と日曜日の営業時間を教えてください。\n\n【確認状況】\n動作確認用サンプル。実際の記録時には担当者が根拠と修正結果を確認してください。",
+  "en": "QUESTION\nWhat time does the main store close on Sundays?\n\nINCORRECT ANSWER\nThe store closes at 19:00 on Sundays.\n\nCORRECT INFORMATION\nThe main store's regular Sunday hours are 10:00–17:00. Public holidays and temporary schedule changes require separate confirmation.\n\nREASON FOR CORRECTION\nSaturday's closing time of 19:00 was incorrectly used for Sunday.\n\nREFERENCE\nThe weekly schedule in the main store's company and business information note: Saturday 10:00–19:00; Sunday 10:00–17:00.\n\nSCOPE\nAnswers about regular Sunday hours at the main store only. Other stores are not covered.\n\nACTION ON THE OFFICIAL NOTE\nConfirm that the original schedule lists Sunday as 10:00–17:00. If incorrect, edit and approve the original note. Saving this correction record alone does not update it.\n\nVERIFICATION QUESTIONS\n• What time does the main store close on Sundays?\n• What are the main store's Saturday and Sunday hours?\n\nVERIFICATION STATUS\nDemonstration only. Staff must verify the source and corrected result when recording a real incident.",
+  "keywords": "訂正 誤回答 日曜日 閉店時刻 営業時間 本店 correction incorrect answer Sunday closing time opening hours main store",
+  "scope": "こはる商店 本店／日曜日の通常営業時間 / Main Store — Regular Sunday hours",
+  "source": "動作確認用の架空の訂正記録",
+  "start": "",
+  "end": "",
+  "visibility": "internal",
+  "reason": "土曜日と日曜日の営業時間を取り違えた回答の訂正記録"
+}
