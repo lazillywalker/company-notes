@@ -17,6 +17,10 @@
 
 ## ダウンロード
 
+[**サンプル付き配布版ZIPをダウンロード（v0.1.0）**](https://github.com/lazillywalker/company-notes/releases/download/v0.1.0/company-notes-distribution.zip)
+
+[リリース説明・必要環境](https://github.com/lazillywalker/company-notes/releases/tag/v0.1.0)
+
 このリポジトリの Releases から `company-notes-distribution.zip` をダウンロードしてください。GitHubが自動生成するSource codeではなく、配布用ZIPを選んでください。
 
 ## 必要環境
