@@ -25,7 +25,7 @@ def now():
     return dt.datetime.now(dt.timezone.utc).isoformat()
 
 
-def api(path, body=None):
+def api(path, body=None, timeout=300):
     # No proxy, redirects, configurable remote host, or external API support.
     class NoRedirect(urllib.request.HTTPRedirectHandler):
         def redirect_request(self, *args, **kwargs):
@@ -34,7 +34,7 @@ def api(path, body=None):
     req = urllib.request.Request(BASE + path,
         data=None if body is None else json.dumps(body).encode(),
         headers={'Content-Type': 'application/json'})
-    with opener.open(req, timeout=300) as response:
+    with opener.open(req, timeout=timeout) as response:
         return json.load(response)
 
 

@@ -1,6 +1,11 @@
 __pycache__/
-*.pyc
-*.sqlite3
-*.sqlite3-*
+*.py[cod]
+*.sqlite*
+*.db
 exports/
+data/
+reports/
+.env
+.env.*
+*.log
 *.desktop
