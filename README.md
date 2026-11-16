@@ -4,6 +4,18 @@
 
 A local-first experimental tool for curated company notes, reference-grounded answers, and comparison of local Ollama models. No fine-tuning; approved notes are retrieved and supplied as context. Uses only the Python standard library.
 
+## ダウンロード / Download
+
+**[配布用ZIPをダウンロード（v0.2.0）](https://github.com/lazillywalker/company-notes/releases/download/v0.2.0/company-notes.zip)**
+
+ZIPを展開して、そのフォルダーで `python3 launch.py` を実行してください。モデル選択・3モデル比較を含む研究用版です。Python 3.10以上が必要です。AI機能にはローカルOllamaと導入済みモデルを使用します。
+
+Download the ZIP above, extract it, and run `python3 launch.py` in the extracted folder. Python 3.10+ is required; AI features use your local Ollama and installed models.
+
+[リリース詳細・更新履歴](https://github.com/lazillywalker/company-notes/releases/tag/v0.2.0)
+
+配布用ZIPのダウンロード数はGitHub Releasesで集計されます。「Code → Download ZIP」と自動生成の「Source code (zip)」は集計対象外です。
+
 ## 必要な環境
 
 - Python 3.10以上（Python 3.12 / Linux Mintで開発）
@@ -97,10 +109,6 @@ python3 setup.py
 ## サンプル教材
 
 `samples/` に架空のサンプル教材と確認用質問があります。JSONを1件ずつ読み込み、確認して承認してください。サンプルの売出し期間は2026年11月7〜15日です。期間外は日付欄と本文を合わせて変更してください。
-
-## 既存リリース
-
-Releasesのv0.1.0配布ZIPは以前の版です。この更新のモデル選択・3モデル比較を使う場合は、mainブランチのソース一式を取得してください。
 
 ## License
 
